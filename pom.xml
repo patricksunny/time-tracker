@@ -8,6 +8,7 @@
     <name>Time Tracker (Parent)</name>
     <description>
         This is a simple Maven / Java web project.
+		Testing this stash thing
     </description>
     <inceptionYear>2015</inceptionYear>
     <url>http://maven.training/</url>
